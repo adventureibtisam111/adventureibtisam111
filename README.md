@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Ibtisam Ali 👋
 
-<!--
-**adventureibtisam111/adventureibtisam111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software developer focused on building real-world projects and improving my skills in full-stack development, Linux, and open-source collaboration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🧠 Habit Tracker
+
+CS50x 2025 Final Project
+A productivity app designed to help users track and build daily habits.
+
+### 🏥 MediTrack
+
+Healthcare management system
+Built to manage patients, doctors, appointments, medication records, and admin workflows.
+
+---
+
+## 🌱 Currently Learning
+
+* Full-stack web development (building end-to-end applications)
+* Git & GitHub workflows
+* Linux / command line (WSL / Ubuntu)
+
+---
+
+## 🛠️ Tools & Technologies
+
+* C
+* Python
+* PHP
+* JavaScript
+* Git & GitHub
+* Linux / Ubuntu / WSL
+* VS Code
+
+---
+
+## 🎯 Goals
+
+* Contribute to open source projects
+* Build production-ready applications
+* Strengthen backend development skills
+* Grow as a software engineer
+
+---
+
+## 📫 Contact
+
+* Email: ibtisamaliabdi10@gmail.com
+* GitHub: https://github.com/adventureibtisam111
