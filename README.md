@@ -84,7 +84,6 @@ My goal is to document not just what I build, but how and why systems are struct
 - PHP
 - MySQL / SQLite
 - JavaScript
-- REST APIs
 - Blade Templates
 - Tailwind CSS / Bootstrap
 - Git & GitHub
