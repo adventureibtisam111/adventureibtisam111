@@ -1,17 +1,32 @@
 # Hi, I'm Ibtisam Ali 👋
 
-Full-stack web developer focused on building real-world backend systems with Laravel and PHP, and documenting how those systems work through technical writing.
+Laravel Backend Engineer specializing in role-based business systems, API design, and scalable database architecture.
 
-I enjoy turning complex workflows (like healthcare systems and point-of-sale applications) into structured, scalable software systems.
+I build real-world backend systems such as healthcare management platforms and point-of-sale applications, focusing on clean architecture, structured workflows, and database-driven design.
+
+I also document how these systems work through technical writing, breaking down backend architecture and design decisions for other developers.
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Full-stack developer (Laravel / PHP / JavaScript)
-- 🏗️ Focused on backend systems, database design, and application architecture
-- ✍️ I write technical articles explaining how real-world systems are built
+- 💻 Backend-focused Full-Stack Developer (Laravel / PHP / JavaScript)
+- 🏗️ Specialized in building role-based business systems and APIs
+- 🧩 Strong focus on database design, system architecture, and backend workflows
+- ✍️ Technical writer focused on explaining how real systems are structured
 - 🌍 Based in Somaliland
+
+---
+
+## 🧩 System Design Focus
+
+I approach development from a system-first perspective:
+
+- Designing relational systems with interconnected business entities
+- Building role-based access control (RBAC) architectures
+- Structuring Laravel applications using clean and maintainable patterns
+- Translating real-world workflows into database models and backend logic
+- Designing APIs that support scalable application workflows
 
 ---
 
@@ -19,49 +34,47 @@ I enjoy turning complex workflows (like healthcare systems and point-of-sale app
 
 ### 🏥 MediTrack — Hospital Management System
 
-A role-based healthcare management system designed to simulate real hospital workflows.
+A role-based healthcare management system built with Laravel to manage hospital workflows including patients, staff, appointments, and prescriptions.
 
-**Key system design highlights:**
+**System design highlights:**
 - Multi-role architecture (Admin, Doctor, Receptionist)
-- Relational database design (patients, doctors, appointments, prescriptions)
-- Workflow-based appointment and treatment management
-- Secure authentication and role-based access control
-- Focus on backend business logic over UI complexity
+- Relational database structure (patients, appointments, prescriptions, medical records)
+- Workflow-based appointment and treatment system
+- Secure authentication and role-based access control (RBAC)
+- Backend-first design focused on business logic and data integrity
 
 ---
 
 ### 🛒 Shop-Control — Point of Sale & Inventory System
 
-A full-stack POS system designed to simulate retail business operations.
+A full-stack POS and inventory management system designed around real retail business operations.
 
-**Key system design highlights:**
-- Inventory management with real-time stock updates
-- Sales processing with transactional logic
-- Role-based access control for staff and admins
-- Customer tracking and purchase history
-- Business workflow modeling (sales → inventory → reporting)
+**System design highlights:**
+- Inventory tracking with real-time stock updates
+- Transaction-based sales processing system
+- Role-based staff access control
+- Customer purchase history and reporting structure
+- Business workflow modeling (sales → inventory → reporting pipeline)
 
 ---
 
-## 🧠 What I'm Learning Right Now
+## ⚙️ Engineering Focus
 
-I am currently focusing on improving my backend engineering skills by building production-style Laravel systems instead of tutorial-based projects.
+I continuously improve the following areas while building projects:
 
-I am particularly interested in:
-- Designing scalable backend architectures
-- Structuring clean Laravel applications
-- Improving database relationships and system workflows
-- Understanding how real business systems operate under the hood
-
-I am also learning how to better communicate technical concepts through writing, by breaking down the systems I build into clear, structured explanations for other developers.
+- Scalable backend architecture using Laravel
+- RESTful API design and structure
+- Database normalization and optimization
+- Business workflow modeling and system design
+- Writing maintainable and modular backend code
 
 ---
 
 ## ✍️ Technical Writing
 
-I write technical articles about Laravel development, backend systems, and real-world application design.
+I write technical articles about backend development, Laravel architecture, and real-world system design.
 
-My goal is to document how systems are built — not just what they do — focusing on architecture, database design, and backend workflows.
+My goal is to document not just what I build, but how and why systems are structured the way they are — focusing on architecture, workflows, and backend decision-making.
 
 ---
 
@@ -71,6 +84,7 @@ My goal is to document how systems are built — not just what they do — focus
 - PHP
 - MySQL / SQLite
 - JavaScript
+- REST APIs
 - Blade Templates
 - Tailwind CSS / Bootstrap
 - Git & GitHub
@@ -81,8 +95,9 @@ My goal is to document how systems are built — not just what they do — focus
 ## 🎯 Goals
 
 - Build production-ready backend systems
-- Contribute to open-source projects
-- Strengthen system design and architecture skills
+- Contribute to open-source Laravel projects
+- Strengthen system design and backend architecture skills
+- Work on real-world remote backend engineering roles
 - Grow as a technical writer in software engineering
 
 ---
